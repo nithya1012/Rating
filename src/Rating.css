@@ -1,0 +1,22 @@
+.star{
+    font-size: 50px;
+    color: #ccc;
+    cursor: pointer;
+    margin-right: 2px;
+    padding: 6px;
+    
+    
+
+}
+.star.filled{
+    color: #ffbf00;
+}
+body{
+    background-position:center ;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: auto;
+    background-image: url(https://th.bing.com/th/id/R.ec11acbd22889b276bc590660ba676f6?rik=L0N9MIKCxWKrtw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fCiSrCXg.jpg&ehk=nshoGaisdw4uc4dXcjfhgYfYn%2bA6f4LISIGeZRp%2b5XU%3d&risl=&pid=ImgRaw&r=0);
+}
